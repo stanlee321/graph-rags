@@ -1,3 +1,13 @@
+torch
+pdf2image
+pypdf
+tqdm
+pillow
+colpali-engine
+pyvespa
+requests
+numpy
+python-dotenv
 
 
 
