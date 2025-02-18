@@ -23,6 +23,9 @@ python -m spacy download en_core_web_lg
 pip install -U langchain-neo4j
 ```
 
+```bash
+ vespa auth api-key
+```
 
 ## Ref  
 - https://github.com/merveenoyan/smol-vision/blob/main/ColPali_%2B_Qwen2_VL.ipynb

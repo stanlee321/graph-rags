@@ -1,1 +1,12 @@
 storage_mini
+.env
+.env.local
+libs/__pycache__/
+libs/cache/
+libs/cache/
+libs/cache/
+libs/cache/
+libs/cache/
+libs/cache/
+ragvision
+__pycache__

@@ -1,0 +1,13 @@
+pdf2image
+qwen-vl-utils
+byaldi
+torch
+pypdf
+tqdm
+pillow
+colpali-engine
+pyvespa
+requests
+numpy
+python-dotenv
+PyPDF2
